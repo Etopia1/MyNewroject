@@ -52,7 +52,7 @@ const Footer = () => {
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-1">
               <MdMarkEmailUnread size="30" color="blue" />
               {/* <img src={footerLogo} alt="" className="max-w-[50px]" /> */}
-              Emailer
+              ErmondMAiler
             </h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in

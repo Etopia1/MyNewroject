@@ -84,7 +84,7 @@ const Navbar = ({popup , setPopup}) => {
           <div>
             <a href="#" className="font-bold text-xl items-center flex gap-1">
               <MdMarkEmailUnread size="30" color="blue" />
-              Emailer
+              ErmondMAiler
             </a>
           </div>
 
