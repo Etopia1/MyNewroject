@@ -590,6 +590,8 @@ const Dashboard = () => {
       });
       console.log(response)
       toast.success(response.data.message || 'Emails sent successfully!');
+      setMessage("")
+      setEmailObject({})
      
     } catch (error) {
       console.error(error);
